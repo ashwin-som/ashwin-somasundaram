@@ -49,27 +49,27 @@ date_format = "Jan 2006"
  # description = ""
  
 [[experience]]
-  title = "Externship Program"
-  company = "AT&T SUMMER LEARNING ACADEMY"
+  title = "Education Officer"
+  company = "ASSOCIATION OF COMPUTING MACHINERY"
   company_url = ""
-  location = "Remote"
+  location = "University of Texas at Dallas"
   date_start = "2020-06-01"
-  date_end = "2020-07-01"
+  date_end = ""
   description = """
   Responsibilities include:
   
-  * Communication skills at workplace
-  * Critical thinking skills for solving problems
+  * Logistics and marketing for Interview Prep Program
+  * Marketing, technical content and logistics for Technical skill workshops
   """
 
 [[experience]]
-  title = "Tutor"
-  company = "Kumon"
+  title = "Member"
+  company = "CODE BURNERS"
   company_url = ""
-  location = "Houston"
-  date_start = "2018-07-01"
-  date_end = "2018-09-01"
-  description = """Teaching high school level students English and Math."""
+  location = "University of Texas at Dallas"
+  date_start = "2019-08-01"
+  date_end = ""
+  description = """Solving competitive coding problems using advanced data structures and complex algorithms."""
 
 
 +++
