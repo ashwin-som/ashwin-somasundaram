@@ -64,6 +64,10 @@ user_groups:
 - Visitors
 ---
 
-Hey there! I'm Ashwin, a rising sophomore at UT Dallas majoring in Computer Science. My main interests include AI/Deep Learning and Data Science. I am developing skills to be able to build intelligent systems that can perform complex tasks better than humans. I'm also a member of the [Computing Scholars CS^2 Program](http://cs.utdallas.edu/computingscholars/) and the [Collegium V Honors Program](https://honors.utdallas.edu/cv).
+Hey there! I'm Ashwin, a rising sophomore at UT Dallas majoring in Computer Science. My main interests include AI/Deep Learning and Data Science. I am developing skills to be able to build intelligent systems that can perform complex tasks better than humans. I'm also a member of the [_Computing Scholars CS^2 Program_](http://cs.utdallas.edu/computingscholars/) and the [_Collegium V Honors Program_](https://honors.utdallas.edu/cv).
 
-I am currrently working on a project using Conv. Neural Nets to find the difference between images of animal species. In my free time, I enjoy [competitive programming](https://open.kattis.com/users/ashwin-s), learning new concepts in robotics, playing basketball, and getting involved in organizations on campus. 
+In my free time, I enjoy [_competitive programming_](https://open.kattis.com/users/ashwin-s), learning new concepts in robotics, playing basketball, and getting involved in organizations on campus. 
+
+**Recent Events**:
+* (June-August, 2020) Attending an AI/Deep learning program hosted by UT Dallas.
+* (June, 2020) Became an Education Officer at the [_Association Of Computing Machinery_](https://www.acmutd.co)
