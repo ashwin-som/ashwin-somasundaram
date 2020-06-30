@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Externship Program"
+  title = "Externship Certificate Program"
   company = "AT&T SUMMER LEARNING ACADEMY"
   company_url = ""
   location = "Remote"
@@ -31,9 +31,25 @@ date_format = "Jan 2006"
   * Critical thinking skills for solving problems
   """
 
+  
+ [[experience]]
+  title = "AI/Deep Learning Program"
+  company = "CS OUTREACH AT UT-DALLAS"
+  company_url = ""
+  location = "Remote"
+  date_start = "2020-06-01"
+  date_end = "2020-08-01"
+  description = """
+  Currently learning machine learning techniques and concepts such as:
+  
+  * Linear/Logistic Regression, Decision Trees, SVMs, Naive Bayes
+  * Deep nerual networks with TensorFlow/Keras
+  * Final comprehensive project solving a machine learning problem
+ 
+ """
 [[experience]]
   title = "Tutor"
-  company = "Kumon"
+  company = "KUMON"
   company_url = ""
   location = "Houston"
   date_start = "2018-07-01"
