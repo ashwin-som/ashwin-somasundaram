@@ -76,7 +76,7 @@ date_format = "Jan 2006"
   company = "ARTIFICIAL INTELLIGENCE SOCIETY"
   company_url = ""
   location = "University of Texas at Dallas"
-  date_start = "2029-09-01"
+  date_start = "2019-09-01"
   date_end = ""
   description = """
   
