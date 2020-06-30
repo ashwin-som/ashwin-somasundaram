@@ -71,5 +71,17 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Solving competitive coding problems using advanced data structures and complex algorithms."""
 
+[[experience]]
+  title = "Member"
+  company = "ARTIFICIAL INTELLIGENCE SOCIETY"
+  company_url = ""
+  location = "University of Texas at Dallas"
+  date_start = "2029-09-01"
+  date_end = ""
+  description = """
+  
+  * Attending technical workshops and industry talks
+  * Developing machine learning skills as a part of a collaborative community
+  """
 
 +++
