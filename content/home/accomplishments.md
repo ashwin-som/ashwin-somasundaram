@@ -50,7 +50,7 @@ date_format = "Jan 2006"
  
 [[experience]]
   title = "Education Officer"
-  company = "ASSOCIATION OF COMPUTING MACHINERY"
+  company = "Association of Computing Machinery"
   company_url = ""
   location = "University of Texas at Dallas"
   date_start = "2020-06-01"
@@ -64,7 +64,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Member"
-  company = "CODE BURNERS"
+  company = "Code Burners"
   company_url = ""
   location = "University of Texas at Dallas"
   date_start = "2019-08-01"
@@ -73,7 +73,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Member"
-  company = "ARTIFICIAL INTELLIGENCE SOCIETY"
+  company = "Artificial Intelligence Society"
   company_url = ""
   location = "University of Texas at Dallas"
   date_start = "2019-09-01"
