@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Externship Certificate Program"
-  company = "AT&T SUMMER LEARNING ACADEMY"
+  company = "AT&T Summer Learning Academy"
   company_url = ""
   location = "Remote"
   date_start = "2020-06-01"
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   
  [[experience]]
   title = "AI/Deep Learning Program"
-  company = "CS OUTREACH AT UT-DALLAS"
+  company = "CS Outreach at the University of Texas at Dallas"
   company_url = ""
   location = "Remote"
   date_start = "2020-06-01"
@@ -49,7 +49,7 @@ date_format = "Jan 2006"
  """
 [[experience]]
   title = "Tutor"
-  company = "KUMON"
+  company = "Kumon"
   company_url = ""
   location = "Houston"
   date_start = "2018-07-01"
