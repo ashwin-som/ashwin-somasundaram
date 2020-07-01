@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Aspiring Computer Scientist at UT Dallas
+role: CS Honors Student
 
 # Organizations/Affiliations
 organizations:
