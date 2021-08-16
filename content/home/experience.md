@@ -18,42 +18,37 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Externship Certificate Program"
-  company = "AT&T Summer Learning Academy"
+  title = "Research Intern"
+  company = "Cognitive Informatics and Statictis Lab at UT Dallas"
   company_url = ""
   location = "Remote"
-  date_start = "2020-06-01"
-  date_end = "2020-07-01"
+  date_start = "2021-08-01"
+  date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Communication skills at workplace
-  * Critical thinking skills for solving problems
+  Working on performance studies of the cognitive diagnostic model-based software (CARLA) and using mathematical theory to design and evaluate MATLAB test modules for this 
+  software.
   """
 
   
  [[experience]]
-  title = "AI/Deep Learning Program"
+  title = "Technology Consulting Intern"
+  company = "Credera"
+  company_url = ""
+  location = "Remote"
+  date_start = "2021-06-01"
+  date_end = "2021-08-01"
+  description = """
+  Worked in the Open Technology Services practice and leveraged Python, Apache, Caddy and Gradle to build a zero-downtime deployment environment for given micro-services. Created a local development configuration which ensures compatibility on multiple operating systems to enable remote development.
+ """
+[[experience]]
+  title = "UT Dallas Machine Learning Program"
   company = "CS Outreach at the University of Texas at Dallas"
   company_url = ""
   location = "Remote"
   date_start = "2020-06-01"
   date_end = "2020-08-01"
   description = """
-  Currently learning machine learning techniques and concepts such as:
-  
-  * Linear/Logistic Regression, Decision Trees, SVMs, Naive Bayes
-  * Deep nerual networks with TensorFlow/Keras
-  * Final comprehensive project solving a machine learning problem
- 
- """
-[[experience]]
-  title = "Tutor"
-  company = "Kumon"
-  company_url = ""
-  location = "Houston"
-  date_start = "2018-07-01"
-  date_end = "2018-09-01"
-  description = """Teaching high school level students English and Math."""
+  Created an image recognition model in Python which differentiates between 10 classes of images. Learned about many other machine learning algorithms such as regression, decision trees and clustering.
+  """
 
 +++
