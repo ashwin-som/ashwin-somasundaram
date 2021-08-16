@@ -4,6 +4,7 @@ summary: Enables patients to record symptoms and send important info to doctors.
 tags:
   - all
   - python
+  - deeplearning
   - hackathon
 date: "2020-06-27T00:00:00Z"
 
