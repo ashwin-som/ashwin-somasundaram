@@ -21,8 +21,8 @@ organizations:
 bio: My research interests include deep learning, robotics and computer vision.
 
 interests:
-- Artificial Intelligence
-- Data Structures and Algorithms
+- Machine Learning
+- Statistics
 - Data Science
 
 education:
