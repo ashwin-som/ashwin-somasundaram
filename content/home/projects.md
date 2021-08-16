@@ -30,12 +30,16 @@ subtitle = ""
      tag = "python"
   
    [[content.filter_button]]
-     name = "Deep Learning"
+     name = "Machine Learning"
      tag = "deeplearning"
   
    [[content.filter_button]]
      name = "C++"
      tag = "cpp"
+     
+   [[content.filter_button]]
+     name = "Hackathon Projects"
+     tag = "hackathon"
   
    [[content.filter_button]]
      name = "Game Development"
