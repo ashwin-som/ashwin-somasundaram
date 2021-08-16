@@ -64,7 +64,7 @@ user_groups:
 - Visitors
 ---
 
-Hey there! I'm Ashwin, a junior at UT Dallas majoring in Computer Science. My main interests lie in Machine Learning, Statistics and Data Science. My career goal is to advance my knowledge in software development and machine learning to build applications useful to the commnunity. I'm also a member of the [_Computing Scholars CS<sup>2</sup> Program_](https://cs.utdallas.edu/computingscholars/) and the [_Collegium V Honors Program_](https://honors.utdallas.edu/cv). 
+Hey there! I'm Ashwin, a junior at UT Dallas majoring in Computer Science. My main interests lie in Machine Learning, Statistics and Data Science. My career goal is to advance my knowledge in software development and machine learning to build applications useful to the commnunity. I'm also a member of the [Computing Scholars CS<sup>2</sup> Program](https://cs.utdallas.edu/computingscholars/) and the [Collegium V Honors Program](https://honors.utdallas.edu/cv). 
 
 In my free time, I enjoy developing software applications, playing basketball, and getting involved with organizations on campus. 
 
