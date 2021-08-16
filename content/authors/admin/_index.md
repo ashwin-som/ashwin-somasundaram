@@ -29,7 +29,7 @@ education:
   courses:
   - course: B.S in Computer Science
     institution: The University of Texas at Dallas
-    year: 2022
+    year: 2023
   - course: High School Diploma
     institution: Cypress Woods High School
     year: 2019
