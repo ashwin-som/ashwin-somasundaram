@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Memberships"
+title = "Leadership"
 subtitle = ""
 
 # Date format
@@ -49,39 +49,34 @@ date_format = "Jan 2006"
  # description = ""
  
 [[experience]]
-  title = "Education Officer"
-  company = "Association of Computing Machinery"
+  title = "Vice President"
+  company = "Big Data Club"
   company_url = ""
   location = "University of Texas at Dallas"
-  date_start = "2020-06-01"
+  date_start = "2021-06-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Logistics and marketing for Interview Prep Program
-  * Marketing, technical content and logistics for Technical skill workshops
+  Overseeing all operations and logistics of the organization and support the club in furthering our vision.
   """
 
 [[experience]]
-  title = "Member"
-  company = "Code Burners"
+  title = "Development Officer"
+  company = "Association for Computing Machinery"
   company_url = ""
   location = "University of Texas at Dallas"
-  date_start = "2019-08-01"
+  date_start = "2021-05-01"
   date_end = ""
-  description = """Solving competitive coding problems using advanced data structures and complex algorithms."""
+  description = """Building useful software applications utilized by ACM and the UT Dallas community"""
 
 [[experience]]
-  title = "Member"
-  company = "Artificial Intelligence Society"
+  title = "Co-Founder"
+  company = "Technical Interview Prep (TIP) Program at ACM"
   company_url = ""
   location = "University of Texas at Dallas"
-  date_start = "2019-09-01"
+  date_start = "2020-12-01"
   date_end = ""
   description = """
-  
-  * Attending technical workshops and industry talks
-  * Developing machine learning skills as a part of a collaborative community
+  Created a intensive program to enable 30 students every semester with the technical skills necessary to tackle interviews in the industry, with many added perks such as resume reviews and mock interviews.
   """
 
 +++
