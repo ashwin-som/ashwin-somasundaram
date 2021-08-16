@@ -64,10 +64,11 @@ user_groups:
 - Visitors
 ---
 
-Hey there! I'm Ashwin, a rising sophomore at UT Dallas majoring in Computer Science. My main interests include AI/Deep Learning and Data Science. I am developing skills to be able to build intelligent systems that can perform complex tasks better than humans. I'm also a member of the [_Computing Scholars CS^2 Program_](http://cs.utdallas.edu/computingscholars/) and the [_Collegium V Honors Program_](https://honors.utdallas.edu/cv).
+Hey there! I'm Ashwin, a junior at UT Dallas majoring in Computer Science. My main interests lie in Machine Learning, Statistics and Data Science. My career goal is to advance my knowledge in software development and machine learning to build applications useful to the commnunity. I'm also a member of the [_Computing Scholars CS^2 Program_](https://cs.utdallas.edu/computingscholars/) and the [_Collegium V Honors Program_](https://honors.utdallas.edu/cv). 
 
-In my free time, I enjoy [_competitive programming_](https://open.kattis.com/users/ashwin-s), learning new concepts in robotics, playing basketball, and getting involved in organizations on campus. 
+In my free time, I enjoy developing software applications, playing basketball, and getting involved with organizations on campus. 
 
 **Recent Events**:
-* (June-August, 2020) Attending an AI/Deep learning program hosted by UT Dallas.
-* (June, 2020) Became an Education Officer at the [_Association Of Computing Machinery_](https://www.acmutd.co)
+* (August, 2021) Started as a Research Intern at the [Cognitive Informatics and Statistics Lab](https://labs.utdallas.edu/coinslab/)
+* (June, 2021) Started serving as the Vice President of the Big Data Club at UT Dallas
+* (December, 2020) Co-founded the Technical Interview Prep (TIP) program at the [_Association Of Computing Machinery_](https://www.acmutd.co)
