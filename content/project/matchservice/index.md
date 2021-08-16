@@ -4,6 +4,7 @@ summary: Allows mentors and mentees to be automatically matched based on form re
 tags:
   - all
   - python
+  - deeplearning
 date: "2020-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
