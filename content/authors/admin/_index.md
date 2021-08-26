@@ -70,5 +70,5 @@ In my free time, I enjoy developing software applications, playing basketball, a
 
 **Recent Events**:
 * (August, 2021) Started as a Research Intern at the [Cognitive Informatics and Statistics Lab](https://labs.utdallas.edu/coinslab/)
-* (July, 2021) Started serving as the President of the Big Data Club at UT Dallas
+* (August, 2021) Started serving as the President of the Big Data Club at UT Dallas
 * (December, 2020) Co-founded the Technical Interview Prep (TIP) program at the [Association of Computing Machinery](https://www.acmutd.co)
