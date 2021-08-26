@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   company = "Big Data Club"
   company_url = ""
   location = "University of Texas at Dallas"
-  date_start = "2021-06-01"
+  date_start = "2021-08-01"
   date_end = ""
   description = """
   Overseeing all operations and logistics of the organization and support the club in furthering our vision.
