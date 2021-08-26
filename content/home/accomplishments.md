@@ -49,7 +49,7 @@ date_format = "Jan 2006"
  # description = ""
  
 [[experience]]
-  title = "Vice President"
+  title = "President"
   company = "Big Data Club"
   company_url = ""
   location = "University of Texas at Dallas"
