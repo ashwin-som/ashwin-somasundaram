@@ -18,12 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Software Dev Engineer Intern"
+  company = "Amazon"
+  company_url = ""
+  location = ""
+  date_start = "2022-05-01"
+  date_end = "2022-08-01"
+  description = """
+  Architected a cross-platform tool utilizing Java, Ruby and AWS DynamoDB to enable customizable service configurations through website. Reduced developer hours at rate 160/year. Implemented a caching mechanism to store most recent config values and reduced the number of API calls made to
+the website.
+  """
+  
+[[experience]]
   title = "Research Intern"
   company = "Cognitive Informatics and Statictis Lab at UT Dallas"
   company_url = ""
   location = "Remote"
   date_start = "2021-08-01"
-  date_end = ""
+  date_end = "2022-08-01"
   description = """
   Working on performance studies of the cognitive diagnostic model-based software (CARLA) and using mathematical theory to design and evaluate MATLAB test modules for this 
   software.
@@ -34,7 +46,7 @@ date_format = "Jan 2006"
   title = "Technology Consulting Intern"
   company = "Credera"
   company_url = ""
-  location = "Remote"
+  location = ""
   date_start = "2021-06-01"
   date_end = "2021-08-01"
   description = """
