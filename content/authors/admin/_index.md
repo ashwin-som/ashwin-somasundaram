@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning, robotics and computer vision.
+bio: My research interests include deep learning, statistics and computer vision.
 
 interests:
 - Machine Learning
@@ -64,11 +64,12 @@ user_groups:
 - Visitors
 ---
 
-Hey there! I'm Ashwin, a junior at UT Dallas majoring in Computer Science. My main interests lie in Machine Learning, Statistics and Data Science. My career goal is to advance my knowledge in software development and machine learning to build applications useful to the commnunity. I'm also a member of the [Computing Scholars CS<sup>2</sup> Program](https://cs.utdallas.edu/computingscholars/) and the [Collegium V Honors Program](https://honors.utdallas.edu/cv). 
+Hey there! I'm Ashwin, a senior at UT Dallas majoring in Computer Science. My main interests lie in Machine Learning, Statistics and Data Science. My career goal is to advance my knowledge in software development and machine learning to build applications useful to the commnunity. I'm also a member of the [Computing Scholars CS<sup>2</sup> Program](https://cs.utdallas.edu/computingscholars/) and the [Collegium V Honors Program](https://honors.utdallas.edu/cv). 
 
 In my free time, I enjoy developing software applications, playing basketball, and getting involved with organizations on campus. 
 
 **Recent Events**:
+* (August, 2022) Completed a Software Dev Engineering Internship at Amazon.
 * (August, 2021) Started as a Research Intern at the [Cognitive Informatics and Statistics Lab](https://labs.utdallas.edu/coinslab/)
 * (August, 2021) Started serving as the President of the Big Data Club at UT Dallas
 * (December, 2020) Co-founded the Technical Interview Prep (TIP) program at the [Association of Computing Machinery](https://www.acmutd.co)
